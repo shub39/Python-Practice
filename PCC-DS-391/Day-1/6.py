@@ -1,6 +1,5 @@
 # Convert Decimal number to octal using print() output formatting
 
-
 octal = 0
 count = 1
 deci = 8
