@@ -1,5 +1,7 @@
-# Write a program to use string.format() method to format the following three variables as per the
-# expected output
+# Write a program to check if a file is empty or not
 
-totalMoney = 3000
-quantity = 3
+with open("new_file.txt", "r") as file:
+    if file.read() == "":
+        print("File is empty")
+    else:
+        print("File is not empty")
