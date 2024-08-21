@@ -10,6 +10,4 @@ for i in range(5):
     a=''
     for j in range(n-i):
         a += str(j) + ' '
-        
-    i += 1
     print(a)
