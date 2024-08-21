@@ -3,7 +3,6 @@
 #    0 1 2
 #    0 1 2 3
 
-
 for i in range(4):
     a=''
     for j in range(i+1):
