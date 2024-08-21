@@ -2,5 +2,4 @@
 # Display the ** separator between each string.
 
 
-
 print("Name","is","James",sep="**")
