@@ -11,3 +11,4 @@ College Assignments for practice and future reference.
 - Rupsa Chakraborty `csana004`
 - Suraj Raj `suraj-raj11`
 - Shubham Gorai `shub39`
+- Bishal Burnwal `bishal0404`
