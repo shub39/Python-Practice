@@ -5,6 +5,7 @@ College Assignments for practice and future reference.
 - Folder names should be separated by dashes eg: `Day-1`
 - Write the question in comments at the beginning of the file
 - Try to make your solution readable
+- Write all sub problems in decimals eg: `1-a` to `1.1`
 
 ## PCC-DS-391 (Introduction to Data Science with Python)
 ### Contributors ⭐️
