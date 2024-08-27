@@ -12,3 +12,4 @@ College Assignments for practice and future reference.
 - Suraj Raj `suraj-raj11`
 - Shubham Gorai `shub39`
 - Bishal Burnwal `bishal0404`
+- Rahul Tudu `RTspec`
