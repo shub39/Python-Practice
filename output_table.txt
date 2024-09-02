@@ -14,16 +14,16 @@
 | [12.py](PCC-DS-391/Day-1/12.py) |  | [12.py](PCC-DS-391/Day-3/12.py) | [12.py](PCC-DS-391/Day-4/12.py) | [12.py](PCC-DS-391/Day-5/12.py) |
 | [13.py](PCC-DS-391/Day-1/13.py) |  | [14.py](PCC-DS-391/Day-3/14.py) | [13.py](PCC-DS-391/Day-4/13.py) | [13.py](PCC-DS-391/Day-5/13.py) |
 | [new_file.txt](PCC-DS-391/Day-1/new_file.txt) |  | [16.py](PCC-DS-391/Day-3/16.py) | [14.py](PCC-DS-391/Day-4/14.py) | [14.py](PCC-DS-391/Day-5/14.py) |
-| [test.txt](PCC-DS-391/Day-1/test.txt) |  | [17.py](PCC-DS-391/Day-3/17.py) | [15.py](PCC-DS-391/Day-4/15.py) |  |
-|  |  | [18.py](PCC-DS-391/Day-3/18.py) | [16.py](PCC-DS-391/Day-4/16.py) |  |
-|  |  | [19.py](PCC-DS-391/Day-3/19.py) | [17.py](PCC-DS-391/Day-4/17.py) |  |
-|  |  | [20.py](PCC-DS-391/Day-3/20.py) | [19.py](PCC-DS-391/Day-4/19.py) |  |
-|  |  | [21.py](PCC-DS-391/Day-3/21.py) | [20.py](PCC-DS-391/Day-4/20.py) |  |
-|  |  | [22.py](PCC-DS-391/Day-3/22.py) | [21.py](PCC-DS-391/Day-4/21.py) |  |
+| [test.txt](PCC-DS-391/Day-1/test.txt) |  | [17.py](PCC-DS-391/Day-3/17.py) | [15.py](PCC-DS-391/Day-4/15.py) | [15.py](PCC-DS-391/Day-5/15.py) |
+|  |  | [18.py](PCC-DS-391/Day-3/18.py) | [16.py](PCC-DS-391/Day-4/16.py) | [16.py](PCC-DS-391/Day-5/16.py) |
+|  |  | [19.py](PCC-DS-391/Day-3/19.py) | [17.py](PCC-DS-391/Day-4/17.py) | [17.py](PCC-DS-391/Day-5/17.py) |
+|  |  | [20.py](PCC-DS-391/Day-3/20.py) | [19.py](PCC-DS-391/Day-4/19.py) | [18.py](PCC-DS-391/Day-5/18.py) |
+|  |  | [21.py](PCC-DS-391/Day-3/21.py) | [20.py](PCC-DS-391/Day-4/20.py) | [19.py](PCC-DS-391/Day-5/19.py) |
+|  |  | [22.py](PCC-DS-391/Day-3/22.py) | [21.py](PCC-DS-391/Day-4/21.py) | [20.py](PCC-DS-391/Day-5/20.py) |
 |  |  | [23.py](PCC-DS-391/Day-3/23.py) | [22.py](PCC-DS-391/Day-4/22.py) |  |
 |  |  | [24.py](PCC-DS-391/Day-3/24.py) | [23.py](PCC-DS-391/Day-4/23.py) |  |
 |  |  | [25.py](PCC-DS-391/Day-3/25.py) | [24.py](PCC-DS-391/Day-4/24.py) |  |
 |  |  | [26.py](PCC-DS-391/Day-3/26.py) | [26.py](PCC-DS-391/Day-4/26.py) |  |
-|  |  | [27.py](PCC-DS-391/Day-3/27.py) |  |  |
+|  |  | [27.py](PCC-DS-391/Day-3/27.py) | [27.py](PCC-DS-391/Day-4/27.py) |  |
 |  |  | [28.py](PCC-DS-391/Day-3/28.py) |  |  |
 |  |  | [29.py](PCC-DS-391/Day-3/29.py) |  |  |
