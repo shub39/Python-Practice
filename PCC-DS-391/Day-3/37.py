@@ -9,5 +9,5 @@
 
 for i in range(1, 9):
   for j in range(i, 0, -1):
-    print(2 ** (j-1), end=" ")
-  print()
+    print(2 ** (j-1), end = "")
+  print() 
